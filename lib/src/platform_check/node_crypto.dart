@@ -2,7 +2,7 @@
 library nodecryto;
 
 import 'dart:js_interop';
-import 'dart:js_interop_unsafe';
+//import 'dart:js_interop_unsafe';
 
 @JS()
 external JSObject require(String id);
